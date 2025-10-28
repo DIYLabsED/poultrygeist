@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "DLG",
+    "RHG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "L": {
+      "item": "minecraft:ladder"
+    },
+    "R": {
+      "item": "minecraft:dropper"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "poultrygeist:coop",
+    "count": 1
+  }
+}
